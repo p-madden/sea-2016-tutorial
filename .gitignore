@@ -1,5 +1,5 @@
+*.csv
+*.nc
+*.png
 .DS_Store
 .ipynb_checkpoints
-iceland
-N_197902_extn.png
-*.csv
